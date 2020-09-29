@@ -1,0 +1,21 @@
+{
+  "name": "editor_project",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^22.0.0",
+    "@ckeditor/ckeditor5-core": "^22.0.0",
+    "@ckeditor/ckeditor5-editor-classic": "^22.0.0",
+    "@ckeditor/ckeditor5-essentials": "^22.0.0",
+    "@ckeditor/ckeditor5-image": "^22.0.0",
+    "@ckeditor/ckeditor5-ui": "^22.0.0",
+    "nuxt": "^2.14.6"
+  },
+  "devDependencies": {
+    "@ckeditor/ckeditor5-editor-classic": "^22.0.0"
+  }
+}
